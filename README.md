@@ -10,13 +10,13 @@
 ### 🧩 Connect with me:
 <p align="center">
   <a href="https://linkedin.com/in/rayid-afzal/" target="blank">
-    <img align="center" src="https://github.com/VintageSpider69/VintageSpider69/blob/main/linkedin.png" alt="linkedin" height="30" width="40" />
+    <img align="center" src="https://github.com/VintageSpider69/VintageSpider69/blob/main/linkedin.png" alt="linkedin" height="40" width="40" />
   </a>
   <a href="https://www.instagram.com/rayid.m.afzal?igsh=MTFvbmR3ZjQyNWdjbw==" target="blank">
-    <img align="center" src="https://github.com/VintageSpider69/VintageSpider69/blob/main/instagram.png" alt="instagram" height="30" width="40" />
+    <img align="center" src="https://github.com/VintageSpider69/VintageSpider69/blob/main/instagram.png" alt="instagram" height="40" width="40" />
   </a>
   <a href="mailto:rayidafzal@gmail.com">
-    <img align="center" src="https://github.com/VintageSpider69/VintageSpider69/blob/main/gmail.png" alt="gmail" height="30" width="40" />
+    <img align="center" src="https://github.com/VintageSpider69/VintageSpider69/blob/main/gmail.png" alt="gmail" height="40" width="40" />
   </a>
 </p>
 
