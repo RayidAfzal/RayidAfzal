@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rayid</h1>
-<h3 align="center">Engineering student | Electronics & Computer | Building the future, one bit at a time ⚡</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=Hi+👋%2C+I'm+Rayid;Engineering+student+%7C+Electronics+%26+Computer;Building+the+future+one+bit+at+a+time+⚡" alt="Typing SVG" />
+</h1>
 
-- 🌱 I’m currently diving deep into **Augmented Reality** and real-time **Embedded Systems**
-- 🧠 I love blending **hardware + software** to solve real-world problems
+- 🌱 I’m currently diving deep into **Augmented Reality** and real-time **Embedded Systems**  
+- 🧠 I love blending **hardware + software** to solve real-world problems  
 - 📫 Reach me at **rayidafzal@gmail.com**
 
 ---
@@ -20,8 +21,8 @@
   </a>
 </p>
 
-
 ---
+
 ### 🛠️ Languages & Tools:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -29,12 +30,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </p>
----
-### 📊 GitHub Stats:
-<!--<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VintageSpider69&show_icons=true&theme=default"/>
-</p>-->
 
+---
+
+### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=VintageSpider69&theme=default" />
 </p>
@@ -44,3 +43,7 @@
 ### 🧠 Cool Projects:
 
 - 🍉 **AR Fruit Ninja** – A spatial slicing game where fruits fly in real-world space and you slice 'em using your phone like a katana. Built with Unity & AR Foundation.
+
+---
+
+![snake gif](https://github.com/VintageSpider69/VintageSpider69/blob/output/github-contribution-grid-snake.svg)
