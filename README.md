@@ -9,21 +9,17 @@
 
 ### 🧩 Connect with me:
 <p align="center">
-  <a href="https://linkedin.com/in/rayid-afzal/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" style="filter: invert(31%) sepia(100%) saturate(4810%) hue-rotate(194deg) brightness(98%) contrast(101%)" /></a>
-  <a href="https://www.instagram.com/rayid.m.afzal?igsh=MTFvbmR3ZjQyNWdjbw==" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram" height="30" width="40" style="filter: invert(28%) sepia(100%) saturate(5763%) hue-rotate(294deg) brightness(95%) contrast(93%)" /></a>
-  <a href="mailto:rayidafzal@gmail.com"><img align="center" src="https://github.com/VintageSpider69/VintageSpider69/blob/main/gmail.png" alt="gmail" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/rayid-afzal/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" style="filter: invert(31%) sepia(100%) saturate(4810%) hue-rotate(194deg) brightness(98%) contrast(101%)" />
+  </a>
+  <a href="https://www.instagram.com/rayid.m.afzal?igsh=MTFvbmR3ZjQyNWdjbw==" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram" height="30" width="40" style="filter: invert(28%) sepia(100%) saturate(5763%) hue-rotate(294deg) brightness(95%) contrast(93%)" />
+  </a>
+  <a href="mailto:rayidafzal@gmail.com">
+    <img align="center" src="https://github.com/VintageSpider69/VintageSpider69/blob/main/gmail.png" alt="gmail" height="30" width="40" />
+  </a>
 </p>
-
-
-
-
-
-
-
-
-
-
-
+---
 ### 🛠️ Languages & Tools:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -31,9 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </p>
-
-
-
+---
 ### 📊 GitHub Stats:
 <!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VintageSpider69&show_icons=true&theme=default"/>
