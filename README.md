@@ -1,6 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=Hi+👋%2C+I'm+Rayid;Engineering+student+%7C+Electronics+%26+Computer;Building+the+future+one+bit+at+a+time+⚡" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi 👋, I'm Rayid</h1>
+<h3 align="center">Engineering student | Electronics & Computer | Building the future, one bit at a time ⚡</h3>
 
 - 🌱 I’m currently diving deep into **Augmented Reality** and real-time **Embedded Systems**  
 - 🧠 I love blending **hardware + software** to solve real-world problems  
@@ -43,7 +42,3 @@
 ### 🧠 Cool Projects:
 
 - 🍉 **AR Fruit Ninja** – A spatial slicing game where fruits fly in real-world space and you slice 'em using your phone like a katana. Built with Unity & AR Foundation.
-
----
-
-![snake gif](https://github.com/VintageSpider69/VintageSpider69/blob/output/github-contribution-grid-snake.svg)
