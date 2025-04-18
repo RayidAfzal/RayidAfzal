@@ -29,13 +29,13 @@
 ### 📊 GitHub Stats:
 <!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VintageSpider69&show_icons=true&theme=default"/>
-</p>
+</p>-->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=VintageSpider69&theme=default" />
 </p>
 
---- -->
+---
 
 ### 🧠 Cool Projects:
 
