@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rayid</h1>
 <h3 align="center">Engineering student | Electronics & Computer | Building the future, one bit at a time ⚡</h3>
 
-- 🌱 I’m currently diving deep into **Augmented Reality** and real-time **Embedded Systems**  
+- 🌱 I’m currently diving deep into **Artificial Intelligence** and real-time **Embedded Systems**  
 - 🧠 I love blending **hardware + software** to solve real-world problems  
 - 📫 Reach me at **rayidafzal@gmail.com**
 
