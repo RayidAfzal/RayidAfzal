@@ -33,19 +33,15 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
- <img src="https://github-readme-streak-stats.demolab.com?user=RayidAfzal" />
-
-
-</p>
-
-
----
 
 ### 🧠 Cool Projects:
 
-- 🍉 **AR Fruit Ninja** – A spatial slicing game where fruits fly in real-world space and you slice 'em using your phone like a katana. Built with Unity & AR Foundation.
+- 🍉 **AR Fruit Ninja** – A spatial slicing game where fruits fly in real-world space and you slice 'em using your phone like a katana. Built with Unity & AR Foundation.Check it out at https://github.com/RayidAfzal/Fruit-Ninja-AR
+
+   🎥 **Intel DLStreamer Project** – Built and optimized a real-time object detection pipeline using Intel's Deep Learning Streamer. Designed for scaling across GPU and CPU with stream replication, performance logging, and bottleneck analysis.
+check it out at https://github.com/RayidAfzal/intel-unnati-dlstreamer
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RayidAfzal/RayidAfzal/output/github-snake-dark.svg" />
