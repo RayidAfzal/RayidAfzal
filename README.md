@@ -35,7 +35,8 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
- <img src="https://github-readme-streak-stats.demolab.com?user=RayidAfzal&theme=tokyonight" />
+ <img src="https://github-readme-streak-stats.demolab.com?user=RayidAfzal" />
+
 
 </p>
 
