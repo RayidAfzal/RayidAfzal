@@ -43,19 +43,6 @@ check it out at https://github.com/RayidAfzal/intel-unnati-dlstreamer
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=RayidAfzal&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RayidAfzal&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayidAfzal&layout=compact&theme=tokyonight" />
-</p>
-
----
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RayidAfzal/RayidAfzal/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RayidAfzal/RayidAfzal/output/github-snake.svg" />
