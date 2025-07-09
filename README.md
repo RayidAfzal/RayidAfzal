@@ -10,13 +10,13 @@
 ### 🧩 Connect with me:
 <p align="center">
   <a href="https://linkedin.com/in/rayid-afzal/" target="blank">
-    <img align="center" src="https://github.com/VintageSpider69/VintageSpider69/blob/main/linkedin.png" alt="linkedin" height="40" width="40" />
+    <img align="center" src="https://github.com/RayidAfzal/RayidAfzal/blob/main/linkedin.png" alt="linkedin" height="40" width="40" />
   </a>
   <a href="https://www.instagram.com/rayid.m.afzal?igsh=MTFvbmR3ZjQyNWdjbw==" target="blank">
-    <img align="center" src="https://github.com/VintageSpider69/VintageSpider69/blob/main/instagram.png" alt="instagram" height="40" width="40" />
+    <img align="center" src="https://github.com/RayidAfzal/RayidAfzal/blob/main/instagram.png" alt="instagram" height="40" width="40" />
   </a>
   <a href="mailto:rayidafzal@gmail.com">
-    <img align="center" src="https://github.com/VintageSpider69/VintageSpider69/blob/main/gmail.png" alt="gmail" height="40" width="40" />
+    <img align="center" src="https://github.com/RayidAfzal/RayidAfzal/blob/main/gmail.png" alt="gmail" height="40" width="40" />
   </a>
 </p>
 
@@ -47,7 +47,7 @@
 - 🍉 **AR Fruit Ninja** – A spatial slicing game where fruits fly in real-world space and you slice 'em using your phone like a katana. Built with Unity & AR Foundation.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VintageSpider69/VintageSpider69/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VintageSpider69/VintageSpider69/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/VintageSpider69/VintageSpider69/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RayidAfzal/RayidAfzal/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RayidAfzal/RayidAfzal/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/RayidAfzal/RayidAfzal/output/github-snake.svg" />
 </picture>
