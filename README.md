@@ -35,7 +35,7 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VintageSpider69&theme=default" />
+ <img src="https://github-readme-streak-stats.demolab.com?user=VintageSpider69&theme=default" />
 </p>
 
 ---
