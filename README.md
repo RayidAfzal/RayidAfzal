@@ -35,7 +35,7 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=VintageSpider69&theme=tokyonight" />
+  <img src="https://img.shields.io/github/stars/VintageSpider69?style=for-the-badge" />
 </p>
 
 
