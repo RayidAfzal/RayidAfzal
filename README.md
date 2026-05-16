@@ -41,6 +41,9 @@
    🎥 **Intel DLStreamer Project** – Built and optimized a real-time object detection pipeline using Intel's Deep Learning Streamer. Designed for scaling across GPU and CPU with stream replication, performance logging, and bottleneck analysis.
 check it out at https://github.com/RayidAfzal/intel-unnati-dlstreamer
 
+- 🖖🏻**AR Rehab System** - An interactive computer vision–based neuro rehabilitation platform featuring gesture-controlled therapy games, real-time hand tracking, patient performance analytics, and motor coordination assessment designed to improve engagement and recovery through immersive rehabilitation exercises.
+check it out at https://github.com/RayidAfzal/AR_Based_Rehab_System
+
 ---
 
 <picture>
